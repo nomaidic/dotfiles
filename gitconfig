@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = donniedarko77x@gmail.com
+	name = NS
